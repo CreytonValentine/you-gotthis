@@ -1,2 +1,8 @@
 var today = document.querySelector("#currentDay");
-var timeSection = document.createElement("ul");
+today = function Date() {
+    var n = today.toDateString();
+    var time = today.toLocalTimeString();
+
+};
+
+Date();
