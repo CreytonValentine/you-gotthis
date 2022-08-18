@@ -6,5 +6,6 @@ user should be able to access all acceptance criteria requirements on the webpag
 
 save and track progress in github.
 
-url for Github repository: git@github.com:CreytonValentine/you-gotthis.git
+url for Github repository:  git@github.com:CreytonValentine/you-gotthis.git
+                            https://github.com/CreytonValentine/you-gotthis
 url for deployed webpage: file:///C:/Users/Creyton%20Valentine/Desktop/you-gotthis/Develop/index.html
