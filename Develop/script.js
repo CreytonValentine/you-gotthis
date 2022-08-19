@@ -6,3 +6,4 @@ today = function Date() {
 };
 
 Date();
+
