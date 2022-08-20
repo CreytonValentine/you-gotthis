@@ -25,11 +25,11 @@ textarea{
   white-space: pre-wrap;
 }
 /* Add .container with display property value flex*/
-.container {
+/*.container {
   display: flex;
   flex-direction: column;
 }
-
+*/
 .time-block{
   text-align: center;
   border-radius: 15px;
